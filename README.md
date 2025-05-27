@@ -16,7 +16,7 @@ user@side-kvas:~$ whoami
 user@side-kvas:~$ links
 ```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4CD964?style=for-the-badge&logo=vercel&logoColor=white)](https://keerthivasansv-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4CD964?style=for-the-badge&logo=vercel&logoColor=white)](https://keerthivasansv.site)
 [![Main GitHub](https://img.shields.io/badge/Main_Account-24292e?style=for-the-badge&logo=github)](https://github.com/Keerthivasan-Venkitajalam)
 
 ```bash
