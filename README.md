@@ -1,16 +1,26 @@
-## Hi there 👋
+```bash
+user@side-kvas:~$ hi
+```
 
-<!--
-**KeerthivasanSV/KeerthivasanSV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/Keerthivasan-Venkitajalam/Keerthivasan-Venkitajalam/blob/main/icons/Hi.gif" width="26px" />
 
-Here are some ideas to get you started:
+```bash
+user@side-kvas:~$ whoami
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Secondary GitHub profile of [Keerthivasan-Venkitajalam](https://github.com/Keerthivasan-Venkitajalam)
+- Exploring side quests, tools, and experiments
+- AI • Automation • Backend • Tinkering
+
+```bash
+user@side-kvas:~$ links
+```
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4CD964?style=for-the-badge&logo=vercel&logoColor=white)](https://keerthivasansv-portfolio.vercel.app/)
+[![Main GitHub](https://img.shields.io/badge/Main_Account-24292e?style=for-the-badge&logo=github)](https://github.com/Keerthivasan-Venkitajalam)
+
+```bash
+user@side-kvas:~$ logout
+```
+
+> Side projects = Real hustle [Cringe]
