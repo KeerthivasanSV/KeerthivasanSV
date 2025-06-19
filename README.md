@@ -8,7 +8,7 @@ user@side-kvas:~$ hi
 user@side-kvas:~$ whoami
 ```
 
-- Secondary GitHub profile of [Keerthivasan-Venkitajalam](https://github.com/Keerthivasan-Venkitajalam)
+- Secondary GitHub profile
 - Exploring side quests, tools, and experiments
 - AI • Automation • Backend • Tinkering
 
