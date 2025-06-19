@@ -23,4 +23,4 @@ user@side-kvas:~$ links
 user@side-kvas:~$ logout
 ```
 
-> Side projects = Real hustle [Cringe]
+> yet to write more...
